@@ -1,6 +1,0 @@
-bs4
-pandas
-langchain_openai
-langchain-core
-langchain-community
-langchain
