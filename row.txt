@@ -1,0 +1,280 @@
+<tr>
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634324000006/0000796343-24-000006-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-24-000006&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-24-000006 (34 Act)  Size: 13 MB
+ </td>
+ <td>
+  2024-01-17
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  24536501
+ </td>
+</tr>
+<tr class="blueRow">
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634323000007/0000796343-23-000007-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-23-000007&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-23-000007 (34 Act)  Size: 14 MB
+ </td>
+ <td>
+  2023-01-17
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  23531912
+ </td>
+</tr>
+<tr>
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634322000032/0000796343-22-000032-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-22-000032&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-22-000032 (34 Act)  Size: 14 MB
+ </td>
+ <td>
+  2022-01-21
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  22545939
+ </td>
+</tr>
+<tr class="blueRow">
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634321000004/0000796343-21-000004-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-21-000004&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-21-000004 (34 Act)  Size: 17 MB
+ </td>
+ <td>
+  2021-01-15
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  21532121
+ </td>
+</tr>
+<tr>
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634320000013/0000796343-20-000013-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-20-000013&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-20-000013 (34 Act)  Size: 20 MB
+ </td>
+ <td>
+  2020-01-21
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  20534965
+ </td>
+</tr>
+<tr class="blueRow">
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634319000019/0000796343-19-000019-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-19-000019&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-19-000019 (34 Act)  Size: 25 MB
+ </td>
+ <td>
+  2019-01-25
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  19541150
+ </td>
+</tr>
+<tr>
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634318000015/0000796343-18-000015-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-18-000015&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-18-000015 (34 Act)  Size: 21 MB
+ </td>
+ <td>
+  2018-01-22
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  18539956
+ </td>
+</tr>
+<tr class="blueRow">
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634317000031/0000796343-17-000031-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-17-000031&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-17-000031 (34 Act)  Size: 17 MB
+ </td>
+ <td>
+  2017-01-20
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  17538661
+ </td>
+</tr>
+<tr>
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634316000224/0000796343-16-000224-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-16-000224&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-16-000224 (34 Act)  Size: 18 MB
+ </td>
+ <td>
+  2016-01-19
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  161347007
+ </td>
+</tr>
+<tr class="blueRow">
+ <td nowrap="nowrap">
+  10-K
+ </td>
+ <td nowrap="nowrap">
+  <a href="/Archives/edgar/data/796343/000079634315000022/0000796343-15-000022-index.htm" id="documentsbutton">
+   Documents
+  </a>
+  <a href="/cgi-bin/viewer?action=view&amp;cik=796343&amp;accession_number=0000796343-15-000022&amp;xbrl_type=v" id="interactiveDataBtn">
+   Interactive Data
+  </a>
+ </td>
+ <td class="small">
+  Annual report [Section 13 and 15(d), not S-K Item 405]
+  <br/>
+  Acc-no: 0000796343-15-000022 (34 Act)  Size: 30 MB
+ </td>
+ <td>
+  2015-01-20
+ </td>
+ <td nowrap="nowrap">
+  <a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-15175&amp;owner=exclude&amp;count=10">
+   000-15175
+  </a>
+  <br/>
+  15533942
+ </td>
+</tr>
