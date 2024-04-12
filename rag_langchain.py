@@ -1,10 +1,6 @@
 from operator import itemgetter
 import os
-
-os.environ["LANGCHAIN_TRACING_V2"] = "true"
-# lang_endpoint = os.environ["LANGCHAIN_ENDPOINT"]
-lang_apikey = os.environ["LANGCHAIN_API_KEY"]
-openai_apikey = os.environ["OPENAI_API_KEY"]
+import getpass
 
 
 import requests
@@ -18,6 +14,12 @@ from langchain_community.vectorstores.chroma import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+
+
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
+os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 #### INDEXING ####
 # https://lilianweng.github.io/posts/2023-06-23-agent/
@@ -54,10 +56,13 @@ text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=20
 splits = text_splitter.split_documents(data)
 
 # Embed
-vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings())
+vectorstore = Chroma.from_documents(
+    documents=splits,
+    embedding=OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY),
+)
 
 retriever = vectorstore.as_retriever()
-print(retriever)
+# print(retriever)
 
 #### RETRIEVAL and GENERATION ####
 
