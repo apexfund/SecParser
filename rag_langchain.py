@@ -1,14 +1,8 @@
-from operator import itemgetter
 import os
-import getpass
-
-
 import requests
 from langchain import hub
 from bs4 import BeautifulSoup as bs
-from bs4 import SoupStrainer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders.web_base import WebBaseLoader
 from langchain_community.document_loaders.html_bs import BSHTMLLoader
 from langchain_community.vectorstores.chroma import Chroma
 from langchain_core.output_parsers import StrOutputParser
@@ -22,7 +16,6 @@ os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 #### INDEXING ####
-# https://lilianweng.github.io/posts/2023-06-23-agent/
 
 headers = {
     "User-Agent": "My User Agent 1.1",
@@ -41,14 +34,14 @@ if response.status_code == 200:
     soup = bs(response.text, "html.parser")
 
     # Write the parsed HTML to a local file
-    with open("content.html", "w", encoding="utf-8") as file:
+    with open("/tmp/content.html", "w", encoding="utf-8") as file:
         file.write(str(soup.prettify()))
     print("HTML content saved successfully.")
 else:
     print(f"Failed to retrieve the webpage: Status code {response.status_code}")
 
 
-loader = BSHTMLLoader("content.html")
+loader = BSHTMLLoader("/tmp/content.html")
 data = loader.load()
 
 # Split
@@ -89,4 +82,4 @@ rag_chain = (
 )
 
 # Question
-print(rag_chain.invoke("What are the general risks taken by the company?"))
+print(rag_chain.invoke("What was the total revenue for the year?"))
