@@ -11,7 +11,7 @@ headers = {
 
 param_dict = {
     "action": "getcompany",
-    "CIK": "NVDA",
+    "CIK": "WMT",
     "type": "10-k",
     "owner": "exclude",
     "output": "XML",

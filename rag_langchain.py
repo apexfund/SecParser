@@ -23,7 +23,9 @@ headers = {
 }
 
 # URL of the webpage
-url = "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+url = (
+    "https://www.sec.gov/Archives/edgar/data/104169/000010416924000056/wmt-20240131.htm"
+)
 
 # Send a GET request to the URL
 response = requests.get(url, headers=headers)
